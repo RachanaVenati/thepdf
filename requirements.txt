@@ -1,0 +1,6 @@
+eamlit
+python-dotenv
+openai
+tiktoken
+weaviate-client
+requests
