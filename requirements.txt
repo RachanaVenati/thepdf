@@ -1,4 +1,4 @@
-eamlit
+streamlit
 python-dotenv
 openai
 tiktoken
